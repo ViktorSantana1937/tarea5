@@ -1,0 +1,44 @@
+  [
+    {
+      "estadio": "Estadio San Carlos de Apoquindo/ Claro Arena",
+      "goles": "20",
+      "top": "130px",
+      "left": "347px",
+      "color": "#0af54c"
+    },
+    {
+      "estadio": "Estadio Santa Laura",
+      "goles": "16",
+      "top": "180px",
+      "left": "270px",
+      "color": "#0af54c"
+    },
+    {
+      "estadio": "Estadio Bicentanario de La Florida",
+      "goles": "10",
+      "top": "220px",
+      "left": "295px",
+      "color": "#0af54c"
+    },
+    {
+      "estadio": "Estadio Nacional",
+      "goles": "7",
+      "top": "195px",
+      "left": "285px",
+      "color": "#3a6947"
+    },
+    {
+      "estadio": "Estadio Municipal de La cisterna",
+      "goles": "7",
+      "top": "215px",
+      "left": "270px",
+      "color": "#3a6947"
+    },
+    {
+      "estadio": "Estadio Monumental",
+      "goles": "4",
+      "top": "205px",
+      "left": "285px",
+      "color": "#2a3d2f"
+    }
+  ]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea 5</title>
+    <style>
+        .mapa path:hover{
+            fill: #07cafb;
+        }
+
+        .etiqueta{
+            border: 1px solid #101010;
+            width: 150px;
+            height: 50px;
+            background-color: white;
+            display: flex;
+            position: absolute;
+            pointer-events: none;
+            font-family: 'Helvetica', sans-serif;
+        }
+        .etiqueta p{
+            margin: auto;
+            margin-left: 10px;
+
+
+        }
+        .estadios circle{
+           
+            opacity: 1 ;
+            
+            /* position: absolute; */
+
+            
+        }
+    </style>
+</head>
+<body>
+    <svg width="500" height="500">
+        <g class="mapa"></g>
+        <g class="estadios"></g>
+        
+    </svg>
+    <script src="./script.js" type="module"></script>
+</body>
+</html>
